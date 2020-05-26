@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
+//Created as part of a Codecademy course.
 
 int main() {
 
